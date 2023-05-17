@@ -26,7 +26,8 @@ Use Closing Operation.
 Print the output and end the program.
 
 ## Program:
-
+### Register Number : 212221230039
+### Name : JANANI R
 ``` Python
 # Import the necessary packages
 import cv2
